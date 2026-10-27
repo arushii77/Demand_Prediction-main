@@ -1,0 +1,361 @@
+date,product,category,price,revenue
+2023-06-01,Wireless Earbuds Pro,Electronics,79.99,4639.42
+2023-06-01,Smart Fitness Watch,Electronics,129.99,5589.57
+2023-06-01,Ergonomic Office Chair,Furniture,199.99,3799.81
+2023-06-01,Stainless Steel Kettle,Home & Kitchen,34.99,2519.28
+2023-06-01,Organic Arabica Coffee 1kg,Groceries,24.5,2719.5
+2023-06-01,Trail Running Shoes,Apparel,89.0,2670.0
+2023-06-02,Wireless Earbuds Pro,Electronics,79.99,4639.42
+2023-06-02,Smart Fitness Watch,Electronics,129.99,4289.67
+2023-06-02,Ergonomic Office Chair,Furniture,199.99,2999.85
+2023-06-02,Stainless Steel Kettle,Home & Kitchen,34.99,1399.6
+2023-06-02,Organic Arabica Coffee 1kg,Groceries,24.5,1543.5
+2023-06-02,Trail Running Shoes,Apparel,89.0,1068.0
+2023-06-03,Wireless Earbuds Pro,Electronics,79.99,4399.45
+2023-06-03,Smart Fitness Watch,Electronics,129.99,2729.79
+2023-06-03,Ergonomic Office Chair,Furniture,199.99,4199.79
+2023-06-03,Stainless Steel Kettle,Home & Kitchen,34.99,2764.21
+2023-06-03,Organic Arabica Coffee 1kg,Groceries,24.5,2523.5
+2023-06-03,Trail Running Shoes,Apparel,89.0,1246.0
+2023-06-04,Wireless Earbuds Pro,Electronics,79.99,8478.94
+2023-06-04,Smart Fitness Watch,Electronics,129.99,6109.53
+2023-06-04,Ergonomic Office Chair,Furniture,199.99,1199.94
+2023-06-04,Stainless Steel Kettle,Home & Kitchen,34.99,1924.45
+2023-06-04,Organic Arabica Coffee 1kg,Groceries,24.5,3185.0
+2023-06-04,Trail Running Shoes,Apparel,89.0,3649.0
+2023-06-05,Wireless Earbuds Pro,Electronics,79.99,5039.37
+2023-06-05,Smart Fitness Watch,Electronics,129.99,5069.61
+2023-06-05,Ergonomic Office Chair,Furniture,199.99,4199.79
+2023-06-05,Stainless Steel Kettle,Home & Kitchen,34.99,1959.44
+2023-06-05,Organic Arabica Coffee 1kg,Groceries,24.5,2401.0
+2023-06-05,Trail Running Shoes,Apparel,89.0,3293.0
+2023-06-06,Wireless Earbuds Pro,Electronics,79.99,6319.21
+2023-06-06,Smart Fitness Watch,Electronics,129.99,3899.7
+2023-06-06,Ergonomic Office Chair,Furniture,199.99,3799.81
+2023-06-06,Stainless Steel Kettle,Home & Kitchen,34.99,2659.24
+2023-06-06,Organic Arabica Coffee 1kg,Groceries,24.5,2474.5
+2023-06-06,Trail Running Shoes,Apparel,89.0,1068.0
+2023-06-07,Wireless Earbuds Pro,Electronics,79.99,4479.44
+2023-06-07,Smart Fitness Watch,Electronics,129.99,2729.79
+2023-06-07,Ergonomic Office Chair,Furniture,199.99,2599.87
+2023-06-07,Stainless Steel Kettle,Home & Kitchen,34.99,2379.32
+2023-06-07,Organic Arabica Coffee 1kg,Groceries,24.5,1396.5
+2023-06-07,Trail Running Shoes,Apparel,89.0,1157.0
+2023-06-08,Wireless Earbuds Pro,Electronics,79.99,3519.56
+2023-06-08,Smart Fitness Watch,Electronics,129.99,3639.72
+2023-06-08,Ergonomic Office Chair,Furniture,199.99,4399.78
+2023-06-08,Stainless Steel Kettle,Home & Kitchen,34.99,3044.13
+2023-06-08,Organic Arabica Coffee 1kg,Groceries,24.5,1176.0
+2023-06-08,Trail Running Shoes,Apparel,89.0,3115.0
+2023-06-09,Wireless Earbuds Pro,Electronics,79.99,5759.28
+2023-06-09,Smart Fitness Watch,Electronics,129.99,2079.84
+2023-06-09,Ergonomic Office Chair,Furniture,199.99,4799.76
+2023-06-09,Stainless Steel Kettle,Home & Kitchen,34.99,1994.43
+2023-06-09,Organic Arabica Coffee 1kg,Groceries,24.5,2425.5
+2023-06-09,Trail Running Shoes,Apparel,89.0,1424.0
+2023-06-10,Wireless Earbuds Pro,Electronics,79.99,6799.15
+2023-06-10,Smart Fitness Watch,Electronics,129.99,3769.71
+2023-06-10,Ergonomic Office Chair,Furniture,199.99,4999.75
+2023-06-10,Stainless Steel Kettle,Home & Kitchen,34.99,3009.14
+2023-06-10,Organic Arabica Coffee 1kg,Groceries,24.5,3846.5
+2023-06-10,Trail Running Shoes,Apparel,89.0,3115.0
+2023-06-11,Wireless Earbuds Pro,Electronics,79.99,5919.26
+2023-06-11,Smart Fitness Watch,Electronics,129.99,9359.28
+2023-06-11,Ergonomic Office Chair,Furniture,199.99,1999.9
+2023-06-11,Stainless Steel Kettle,Home & Kitchen,34.99,1434.59
+2023-06-11,Organic Arabica Coffee 1kg,Groceries,24.5,1470.0
+2023-06-11,Trail Running Shoes,Apparel,89.0,1513.0
+2023-06-12,Wireless Earbuds Pro,Electronics,79.99,5839.27
+2023-06-12,Smart Fitness Watch,Electronics,129.99,5589.57
+2023-06-12,Ergonomic Office Chair,Furniture,199.99,4399.78
+2023-06-12,Stainless Steel Kettle,Home & Kitchen,34.99,1924.45
+2023-06-12,Organic Arabica Coffee 1kg,Groceries,24.5,2033.5
+2023-06-12,Trail Running Shoes,Apparel,89.0,3827.0
+2023-06-13,Wireless Earbuds Pro,Electronics,79.99,2319.71
+2023-06-13,Smart Fitness Watch,Electronics,129.99,6499.5
+2023-06-13,Ergonomic Office Chair,Furniture,199.99,3599.82
+2023-06-13,Stainless Steel Kettle,Home & Kitchen,34.99,2099.4
+2023-06-13,Organic Arabica Coffee 1kg,Groceries,24.5,2131.5
+2023-06-13,Trail Running Shoes,Apparel,89.0,2136.0
+2023-06-14,Wireless Earbuds Pro,Electronics,79.99,2159.73
+2023-06-14,Smart Fitness Watch,Electronics,129.99,3639.72
+2023-06-14,Ergonomic Office Chair,Furniture,199.99,2399.88
+2023-06-14,Stainless Steel Kettle,Home & Kitchen,34.99,1749.5
+2023-06-14,Organic Arabica Coffee 1kg,Groceries,24.5,2915.5
+2023-06-14,Trail Running Shoes,Apparel,89.0,2403.0
+2023-06-15,Wireless Earbuds Pro,Electronics,79.99,5279.34
+2023-06-15,Smart Fitness Watch,Electronics,129.99,4939.62
+2023-06-15,Ergonomic Office Chair,Furniture,199.99,3399.83
+2023-06-15,Stainless Steel Kettle,Home & Kitchen,34.99,2449.3
+2023-06-15,Organic Arabica Coffee 1kg,Groceries,24.5,1666.0
+2023-06-15,Trail Running Shoes,Apparel,89.0,2136.0
+2023-06-16,Wireless Earbuds Pro,Electronics,79.99,5119.36
+2023-06-16,Smart Fitness Watch,Electronics,129.99,1949.85
+2023-06-16,Ergonomic Office Chair,Furniture,199.99,2199.89
+2023-06-16,Stainless Steel Kettle,Home & Kitchen,34.99,1329.62
+2023-06-16,Organic Arabica Coffee 1kg,Groceries,24.5,980.0
+2023-06-16,Trail Running Shoes,Apparel,89.0,1513.0
+2023-06-17,Wireless Earbuds Pro,Electronics,79.99,4639.42
+2023-06-17,Smart Fitness Watch,Electronics,129.99,4289.67
+2023-06-17,Ergonomic Office Chair,Furniture,199.99,6199.69
+2023-06-17,Stainless Steel Kettle,Home & Kitchen,34.99,2169.38
+2023-06-17,Organic Arabica Coffee 1kg,Groceries,24.5,1543.5
+2023-06-17,Trail Running Shoes,Apparel,89.0,5251.0
+2023-06-18,Wireless Earbuds Pro,Electronics,79.99,5759.28
+2023-06-18,Smart Fitness Watch,Electronics,129.99,8189.37
+2023-06-18,Ergonomic Office Chair,Furniture,199.99,2399.88
+2023-06-18,Stainless Steel Kettle,Home & Kitchen,34.99,3324.05
+2023-06-18,Organic Arabica Coffee 1kg,Groceries,24.5,2646.0
+2023-06-18,Trail Running Shoes,Apparel,89.0,4361.0
+2023-06-19,Wireless Earbuds Pro,Electronics,79.99,2079.74
+2023-06-19,Smart Fitness Watch,Electronics,129.99,2989.77
+2023-06-19,Ergonomic Office Chair,Furniture,199.99,2399.88
+2023-06-19,Stainless Steel Kettle,Home & Kitchen,34.99,1434.59
+2023-06-19,Organic Arabica Coffee 1kg,Groceries,24.5,1788.5
+2023-06-19,Trail Running Shoes,Apparel,89.0,3738.0
+2023-06-20,Wireless Earbuds Pro,Electronics,79.99,5359.33
+2023-06-20,Smart Fitness Watch,Electronics,129.99,4809.63
+2023-06-20,Ergonomic Office Chair,Furniture,199.99,1799.91
+2023-06-20,Stainless Steel Kettle,Home & Kitchen,34.99,2239.36
+2023-06-20,Organic Arabica Coffee 1kg,Groceries,24.5,2033.5
+2023-06-20,Trail Running Shoes,Apparel,89.0,2759.0
+2023-06-21,Wireless Earbuds Pro,Electronics,79.99,3679.54
+2023-06-21,Smart Fitness Watch,Electronics,129.99,6369.51
+2023-06-21,Ergonomic Office Chair,Furniture,199.99,999.95
+2023-06-21,Stainless Steel Kettle,Home & Kitchen,34.99,2239.36
+2023-06-21,Organic Arabica Coffee 1kg,Groceries,24.5,2107.0
+2023-06-21,Trail Running Shoes,Apparel,89.0,2047.0
+2023-06-22,Wireless Earbuds Pro,Electronics,79.99,1759.78
+2023-06-22,Smart Fitness Watch,Electronics,129.99,1949.85
+2023-06-22,Ergonomic Office Chair,Furniture,199.99,1799.91
+2023-06-22,Stainless Steel Kettle,Home & Kitchen,34.99,1924.45
+2023-06-22,Organic Arabica Coffee 1kg,Groceries,24.5,1298.5
+2023-06-22,Trail Running Shoes,Apparel,89.0,3204.0
+2023-06-23,Wireless Earbuds Pro,Electronics,79.99,2239.72
+2023-06-23,Smart Fitness Watch,Electronics,129.99,3769.71
+2023-06-23,Ergonomic Office Chair,Furniture,199.99,3799.81
+2023-06-23,Stainless Steel Kettle,Home & Kitchen,34.99,1924.45
+2023-06-23,Organic Arabica Coffee 1kg,Groceries,24.5,1984.5
+2023-06-23,Trail Running Shoes,Apparel,89.0,1958.0
+2023-06-24,Wireless Earbuds Pro,Electronics,79.99,7519.06
+2023-06-24,Smart Fitness Watch,Electronics,129.99,8059.38
+2023-06-24,Ergonomic Office Chair,Furniture,199.99,2799.86
+2023-06-24,Stainless Steel Kettle,Home & Kitchen,34.99,3673.95
+2023-06-24,Organic Arabica Coffee 1kg,Groceries,24.5,2989.0
+2023-06-24,Trail Running Shoes,Apparel,89.0,4895.0
+2023-06-25,Wireless Earbuds Pro,Electronics,79.99,2479.69
+2023-06-25,Smart Fitness Watch,Electronics,129.99,7669.41
+2023-06-25,Ergonomic Office Chair,Furniture,199.99,2399.88
+2023-06-25,Stainless Steel Kettle,Home & Kitchen,34.99,2449.3
+2023-06-25,Organic Arabica Coffee 1kg,Groceries,24.5,1764.0
+2023-06-25,Trail Running Shoes,Apparel,89.0,4539.0
+2023-06-26,Wireless Earbuds Pro,Electronics,79.99,4399.45
+2023-06-26,Smart Fitness Watch,Electronics,129.99,3509.73
+2023-06-26,Ergonomic Office Chair,Furniture,199.99,2199.89
+2023-06-26,Stainless Steel Kettle,Home & Kitchen,34.99,3079.12
+2023-06-26,Organic Arabica Coffee 1kg,Groceries,24.5,1641.5
+2023-06-26,Trail Running Shoes,Apparel,89.0,979.0
+2023-06-27,Wireless Earbuds Pro,Electronics,79.99,4879.39
+2023-06-27,Smart Fitness Watch,Electronics,129.99,7669.41
+2023-06-27,Ergonomic Office Chair,Furniture,199.99,1999.9
+2023-06-27,Stainless Steel Kettle,Home & Kitchen,34.99,1994.43
+2023-06-27,Organic Arabica Coffee 1kg,Groceries,24.5,1641.5
+2023-06-27,Trail Running Shoes,Apparel,89.0,2581.0
+2023-06-28,Wireless Earbuds Pro,Electronics,79.99,3919.51
+2023-06-28,Smart Fitness Watch,Electronics,129.99,3249.75
+2023-06-28,Ergonomic Office Chair,Furniture,199.99,2199.89
+2023-06-28,Stainless Steel Kettle,Home & Kitchen,34.99,2169.38
+2023-06-28,Organic Arabica Coffee 1kg,Groceries,24.5,980.0
+2023-06-28,Trail Running Shoes,Apparel,89.0,3204.0
+2023-06-29,Wireless Earbuds Pro,Electronics,79.99,6079.24
+2023-06-29,Smart Fitness Watch,Electronics,129.99,3509.73
+2023-06-29,Ergonomic Office Chair,Furniture,199.99,2599.87
+2023-06-29,Stainless Steel Kettle,Home & Kitchen,34.99,1119.68
+2023-06-29,Organic Arabica Coffee 1kg,Groceries,24.5,2670.5
+2023-06-29,Trail Running Shoes,Apparel,89.0,1513.0
+2023-06-30,Wireless Earbuds Pro,Electronics,79.99,3679.54
+2023-06-30,Smart Fitness Watch,Electronics,129.99,2989.77
+2023-06-30,Ergonomic Office Chair,Furniture,199.99,1799.91
+2023-06-30,Stainless Steel Kettle,Home & Kitchen,34.99,2169.38
+2023-06-30,Organic Arabica Coffee 1kg,Groceries,24.5,2205.0
+2023-06-30,Trail Running Shoes,Apparel,89.0,2937.0
+2023-07-01,Wireless Earbuds Pro,Electronics,79.99,3599.55
+2023-07-01,Smart Fitness Watch,Electronics,129.99,8059.38
+2023-07-01,Ergonomic Office Chair,Furniture,199.99,3399.83
+2023-07-01,Stainless Steel Kettle,Home & Kitchen,34.99,3813.91
+2023-07-01,Organic Arabica Coffee 1kg,Groceries,24.5,3332.0
+2023-07-01,Trail Running Shoes,Apparel,89.0,2492.0
+2023-07-02,Wireless Earbuds Pro,Electronics,79.99,6239.22
+2023-07-02,Smart Fitness Watch,Electronics,129.99,2729.79
+2023-07-02,Ergonomic Office Chair,Furniture,199.99,1799.91
+2023-07-02,Stainless Steel Kettle,Home & Kitchen,34.99,3673.95
+2023-07-02,Organic Arabica Coffee 1kg,Groceries,24.5,3136.0
+2023-07-02,Trail Running Shoes,Apparel,89.0,3115.0
+2023-07-03,Wireless Earbuds Pro,Electronics,79.99,6239.22
+2023-07-03,Smart Fitness Watch,Electronics,129.99,2079.84
+2023-07-03,Ergonomic Office Chair,Furniture,199.99,1199.94
+2023-07-03,Stainless Steel Kettle,Home & Kitchen,34.99,1994.43
+2023-07-03,Organic Arabica Coffee 1kg,Groceries,24.5,2278.5
+2023-07-03,Trail Running Shoes,Apparel,89.0,2848.0
+2023-07-04,Wireless Earbuds Pro,Electronics,79.99,4479.44
+2023-07-04,Smart Fitness Watch,Electronics,129.99,5979.54
+2023-07-04,Ergonomic Office Chair,Furniture,199.99,999.95
+2023-07-04,Stainless Steel Kettle,Home & Kitchen,34.99,1049.7
+2023-07-04,Organic Arabica Coffee 1kg,Groceries,24.5,1421.0
+2023-07-04,Trail Running Shoes,Apparel,89.0,979.0
+2023-07-05,Wireless Earbuds Pro,Electronics,79.99,5759.28
+2023-07-05,Smart Fitness Watch,Electronics,129.99,7539.42
+2023-07-05,Ergonomic Office Chair,Furniture,199.99,1999.9
+2023-07-05,Stainless Steel Kettle,Home & Kitchen,34.99,2134.39
+2023-07-05,Organic Arabica Coffee 1kg,Groceries,24.5,2621.5
+2023-07-05,Trail Running Shoes,Apparel,89.0,1780.0
+2023-07-06,Wireless Earbuds Pro,Electronics,79.99,5999.25
+2023-07-06,Smart Fitness Watch,Electronics,129.99,4029.69
+2023-07-06,Ergonomic Office Chair,Furniture,199.99,1999.9
+2023-07-06,Stainless Steel Kettle,Home & Kitchen,34.99,1854.47
+2023-07-06,Organic Arabica Coffee 1kg,Groceries,24.5,2646.0
+2023-07-06,Trail Running Shoes,Apparel,89.0,3827.0
+2023-07-07,Wireless Earbuds Pro,Electronics,79.99,1999.75
+2023-07-07,Smart Fitness Watch,Electronics,129.99,4679.64
+2023-07-07,Ergonomic Office Chair,Furniture,199.99,2999.85
+2023-07-07,Stainless Steel Kettle,Home & Kitchen,34.99,2694.23
+2023-07-07,Organic Arabica Coffee 1kg,Groceries,24.5,1347.5
+2023-07-07,Trail Running Shoes,Apparel,89.0,3738.0
+2023-07-08,Wireless Earbuds Pro,Electronics,79.99,2959.63
+2023-07-08,Smart Fitness Watch,Electronics,129.99,3509.73
+2023-07-08,Ergonomic Office Chair,Furniture,199.99,5399.73
+2023-07-08,Stainless Steel Kettle,Home & Kitchen,34.99,2729.22
+2023-07-08,Organic Arabica Coffee 1kg,Groceries,24.5,1372.0
+2023-07-08,Trail Running Shoes,Apparel,89.0,3471.0
+2023-07-09,Wireless Earbuds Pro,Electronics,79.99,8478.94
+2023-07-09,Smart Fitness Watch,Electronics,129.99,8709.33
+2023-07-09,Ergonomic Office Chair,Furniture,199.99,6199.69
+2023-07-09,Stainless Steel Kettle,Home & Kitchen,34.99,2589.26
+2023-07-09,Organic Arabica Coffee 1kg,Groceries,24.5,3503.5
+2023-07-09,Trail Running Shoes,Apparel,89.0,3293.0
+2023-07-10,Wireless Earbuds Pro,Electronics,79.99,3119.61
+2023-07-10,Smart Fitness Watch,Electronics,129.99,5979.54
+2023-07-10,Ergonomic Office Chair,Furniture,199.99,2199.89
+2023-07-10,Stainless Steel Kettle,Home & Kitchen,34.99,2834.19
+2023-07-10,Organic Arabica Coffee 1kg,Groceries,24.5,1764.0
+2023-07-10,Trail Running Shoes,Apparel,89.0,2403.0
+2023-07-11,Wireless Earbuds Pro,Electronics,79.99,4719.41
+2023-07-11,Smart Fitness Watch,Electronics,129.99,1949.85
+2023-07-11,Ergonomic Office Chair,Furniture,199.99,2999.85
+2023-07-11,Stainless Steel Kettle,Home & Kitchen,34.99,1994.43
+2023-07-11,Organic Arabica Coffee 1kg,Groceries,24.5,2352.0
+2023-07-11,Trail Running Shoes,Apparel,89.0,3026.0
+2023-07-12,Wireless Earbuds Pro,Electronics,79.99,5519.31
+2023-07-12,Smart Fitness Watch,Electronics,129.99,4809.63
+2023-07-12,Ergonomic Office Chair,Furniture,199.99,2799.86
+2023-07-12,Stainless Steel Kettle,Home & Kitchen,34.99,2239.36
+2023-07-12,Organic Arabica Coffee 1kg,Groceries,24.5,1127.0
+2023-07-12,Trail Running Shoes,Apparel,89.0,2225.0
+2023-07-13,Wireless Earbuds Pro,Electronics,79.99,3599.55
+2023-07-13,Smart Fitness Watch,Electronics,129.99,2079.84
+2023-07-13,Ergonomic Office Chair,Furniture,199.99,999.95
+2023-07-13,Stainless Steel Kettle,Home & Kitchen,34.99,2694.23
+2023-07-13,Organic Arabica Coffee 1kg,Groceries,24.5,1249.5
+2023-07-13,Trail Running Shoes,Apparel,89.0,1246.0
+2023-07-14,Wireless Earbuds Pro,Electronics,79.99,4479.44
+2023-07-14,Smart Fitness Watch,Electronics,129.99,5979.54
+2023-07-14,Ergonomic Office Chair,Furniture,199.99,2599.87
+2023-07-14,Stainless Steel Kettle,Home & Kitchen,34.99,2449.3
+2023-07-14,Organic Arabica Coffee 1kg,Groceries,24.5,1421.0
+2023-07-14,Trail Running Shoes,Apparel,89.0,2225.0
+2023-07-15,Wireless Earbuds Pro,Electronics,79.99,2319.71
+2023-07-15,Smart Fitness Watch,Electronics,129.99,5849.55
+2023-07-15,Ergonomic Office Chair,Furniture,199.99,1199.94
+2023-07-15,Stainless Steel Kettle,Home & Kitchen,34.99,2484.29
+2023-07-15,Organic Arabica Coffee 1kg,Groceries,24.5,3748.5
+2023-07-15,Trail Running Shoes,Apparel,89.0,1958.0
+2023-07-16,Wireless Earbuds Pro,Electronics,79.99,5919.26
+2023-07-16,Smart Fitness Watch,Electronics,129.99,9099.3
+2023-07-16,Ergonomic Office Chair,Furniture,199.99,3199.84
+2023-07-16,Stainless Steel Kettle,Home & Kitchen,34.99,2309.34
+2023-07-16,Organic Arabica Coffee 1kg,Groceries,24.5,2107.0
+2023-07-16,Trail Running Shoes,Apparel,89.0,4539.0
+2023-07-17,Wireless Earbuds Pro,Electronics,79.99,2959.63
+2023-07-17,Smart Fitness Watch,Electronics,129.99,4159.68
+2023-07-17,Ergonomic Office Chair,Furniture,199.99,1199.94
+2023-07-17,Stainless Steel Kettle,Home & Kitchen,34.99,2904.17
+2023-07-17,Organic Arabica Coffee 1kg,Groceries,24.5,1813.0
+2023-07-17,Trail Running Shoes,Apparel,89.0,2225.0
+2023-07-18,Wireless Earbuds Pro,Electronics,79.99,4799.4
+2023-07-18,Smart Fitness Watch,Electronics,129.99,6499.5
+2023-07-18,Ergonomic Office Chair,Furniture,199.99,999.95
+2023-07-18,Stainless Steel Kettle,Home & Kitchen,34.99,1154.67
+2023-07-18,Organic Arabica Coffee 1kg,Groceries,24.5,1764.0
+2023-07-18,Trail Running Shoes,Apparel,89.0,2047.0
+2023-07-19,Wireless Earbuds Pro,Electronics,79.99,3199.6
+2023-07-19,Smart Fitness Watch,Electronics,129.99,4419.66
+2023-07-19,Ergonomic Office Chair,Furniture,199.99,2399.88
+2023-07-19,Stainless Steel Kettle,Home & Kitchen,34.99,1259.64
+2023-07-19,Organic Arabica Coffee 1kg,Groceries,24.5,2597.0
+2023-07-19,Trail Running Shoes,Apparel,89.0,2314.0
+2023-07-20,Wireless Earbuds Pro,Electronics,79.99,4159.48
+2023-07-20,Smart Fitness Watch,Electronics,129.99,3379.74
+2023-07-20,Ergonomic Office Chair,Furniture,199.99,4599.77
+2023-07-20,Stainless Steel Kettle,Home & Kitchen,34.99,1784.49
+2023-07-20,Organic Arabica Coffee 1kg,Groceries,24.5,1494.5
+2023-07-20,Trail Running Shoes,Apparel,89.0,3471.0
+2023-07-21,Wireless Earbuds Pro,Electronics,79.99,4559.43
+2023-07-21,Smart Fitness Watch,Electronics,129.99,6759.48
+2023-07-21,Ergonomic Office Chair,Furniture,199.99,3399.83
+2023-07-21,Stainless Steel Kettle,Home & Kitchen,34.99,2799.2
+2023-07-21,Organic Arabica Coffee 1kg,Groceries,24.5,2278.5
+2023-07-21,Trail Running Shoes,Apparel,89.0,1513.0
+2023-07-22,Wireless Earbuds Pro,Electronics,79.99,4959.38
+2023-07-22,Smart Fitness Watch,Electronics,129.99,7149.45
+2023-07-22,Ergonomic Office Chair,Furniture,199.99,1599.92
+2023-07-22,Stainless Steel Kettle,Home & Kitchen,34.99,2344.33
+2023-07-22,Organic Arabica Coffee 1kg,Groceries,24.5,2278.5
+2023-07-22,Trail Running Shoes,Apparel,89.0,4984.0
+2023-07-23,Wireless Earbuds Pro,Electronics,79.99,5039.37
+2023-07-23,Smart Fitness Watch,Electronics,129.99,8189.37
+2023-07-23,Ergonomic Office Chair,Furniture,199.99,2399.88
+2023-07-23,Stainless Steel Kettle,Home & Kitchen,34.99,4198.8
+2023-07-23,Organic Arabica Coffee 1kg,Groceries,24.5,3307.5
+2023-07-23,Trail Running Shoes,Apparel,89.0,3293.0
+2023-07-24,Wireless Earbuds Pro,Electronics,79.99,1839.77
+2023-07-24,Smart Fitness Watch,Electronics,129.99,6369.51
+2023-07-24,Ergonomic Office Chair,Furniture,199.99,4199.79
+2023-07-24,Stainless Steel Kettle,Home & Kitchen,34.99,1609.54
+2023-07-24,Organic Arabica Coffee 1kg,Groceries,24.5,2033.5
+2023-07-24,Trail Running Shoes,Apparel,89.0,3293.0
+2023-07-25,Wireless Earbuds Pro,Electronics,79.99,3919.51
+2023-07-25,Smart Fitness Watch,Electronics,129.99,5589.57
+2023-07-25,Ergonomic Office Chair,Furniture,199.99,3599.82
+2023-07-25,Stainless Steel Kettle,Home & Kitchen,34.99,2869.18
+2023-07-25,Organic Arabica Coffee 1kg,Groceries,24.5,1102.5
+2023-07-25,Trail Running Shoes,Apparel,89.0,3916.0
+2023-07-26,Wireless Earbuds Pro,Electronics,79.99,6319.21
+2023-07-26,Smart Fitness Watch,Electronics,129.99,7149.45
+2023-07-26,Ergonomic Office Chair,Furniture,199.99,1799.91
+2023-07-26,Stainless Steel Kettle,Home & Kitchen,34.99,1854.47
+2023-07-26,Organic Arabica Coffee 1kg,Groceries,24.5,2082.5
+2023-07-26,Trail Running Shoes,Apparel,89.0,3560.0
+2023-07-27,Wireless Earbuds Pro,Electronics,79.99,4319.46
+2023-07-27,Smart Fitness Watch,Electronics,129.99,6109.53
+2023-07-27,Ergonomic Office Chair,Furniture,199.99,4799.76
+2023-07-27,Stainless Steel Kettle,Home & Kitchen,34.99,1749.5
+2023-07-27,Organic Arabica Coffee 1kg,Groceries,24.5,1739.5
+2023-07-27,Trail Running Shoes,Apparel,89.0,2848.0
+2023-07-28,Wireless Earbuds Pro,Electronics,79.99,4159.48
+2023-07-28,Smart Fitness Watch,Electronics,129.99,2209.83
+2023-07-28,Ergonomic Office Chair,Furniture,199.99,4399.78
+2023-07-28,Stainless Steel Kettle,Home & Kitchen,34.99,1889.46
+2023-07-28,Organic Arabica Coffee 1kg,Groceries,24.5,2278.5
+2023-07-28,Trail Running Shoes,Apparel,89.0,1068.0
+2023-07-29,Wireless Earbuds Pro,Electronics,79.99,6319.21
+2023-07-29,Smart Fitness Watch,Electronics,129.99,6629.49
+2023-07-29,Ergonomic Office Chair,Furniture,199.99,5799.71
+2023-07-29,Stainless Steel Kettle,Home & Kitchen,34.99,2869.18
+2023-07-29,Organic Arabica Coffee 1kg,Groceries,24.5,2842.0
+2023-07-29,Trail Running Shoes,Apparel,89.0,3649.0
+2023-07-30,Wireless Earbuds Pro,Electronics,79.99,4479.44
+2023-07-30,Smart Fitness Watch,Electronics,129.99,2729.79
+2023-07-30,Ergonomic Office Chair,Furniture,199.99,3599.82
+2023-07-30,Stainless Steel Kettle,Home & Kitchen,34.99,1434.59
+2023-07-30,Organic Arabica Coffee 1kg,Groceries,24.5,1837.5
+2023-07-30,Trail Running Shoes,Apparel,89.0,4984.0

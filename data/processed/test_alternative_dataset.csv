@@ -1,0 +1,274 @@
+date,product,category,price,quantity,revenue,country
+2024-01-01,4K Gaming Monitor 27,Tech,299.99,16,4799.84,Canada
+2024-01-01,Mechanical Keyboard RGB,Tech,89.99,43,3869.57,Canada
+2024-01-01,Standing Desk Motorized,Office,349.99,9,3149.91,Canada
+2024-01-02,4K Gaming Monitor 27,Tech,299.99,10,2999.9,Canada
+2024-01-02,Mechanical Keyboard RGB,Tech,89.99,39,3509.61,Canada
+2024-01-02,Standing Desk Motorized,Office,349.99,10,3499.9,Canada
+2024-01-03,4K Gaming Monitor 27,Tech,299.99,20,5999.8,Canada
+2024-01-03,Mechanical Keyboard RGB,Tech,89.99,21,1889.79,Canada
+2024-01-03,Standing Desk Motorized,Office,349.99,11,3849.89,Canada
+2024-01-04,4K Gaming Monitor 27,Tech,299.99,11,3299.89,Canada
+2024-01-04,Mechanical Keyboard RGB,Tech,89.99,34,3059.66,Canada
+2024-01-04,Standing Desk Motorized,Office,349.99,3,1049.97,Canada
+2024-01-05,4K Gaming Monitor 27,Tech,299.99,15,4499.85,Canada
+2024-01-05,Mechanical Keyboard RGB,Tech,89.99,30,2699.7,Canada
+2024-01-05,Standing Desk Motorized,Office,349.99,5,1749.95,Canada
+2024-01-06,4K Gaming Monitor 27,Tech,299.99,22,6599.78,Canada
+2024-01-06,Mechanical Keyboard RGB,Tech,89.99,42,3779.58,Canada
+2024-01-06,Standing Desk Motorized,Office,349.99,4,1399.96,Canada
+2024-01-07,4K Gaming Monitor 27,Tech,299.99,9,2699.91,Canada
+2024-01-07,Mechanical Keyboard RGB,Tech,89.99,46,4139.54,Canada
+2024-01-07,Standing Desk Motorized,Office,349.99,9,3149.91,Canada
+2024-01-08,4K Gaming Monitor 27,Tech,299.99,29,8699.71,Canada
+2024-01-08,Mechanical Keyboard RGB,Tech,89.99,39,3509.61,Canada
+2024-01-08,Standing Desk Motorized,Office,349.99,8,2799.92,Canada
+2024-01-09,4K Gaming Monitor 27,Tech,299.99,29,8699.71,Canada
+2024-01-09,Mechanical Keyboard RGB,Tech,89.99,20,1799.8,Canada
+2024-01-09,Standing Desk Motorized,Office,349.99,8,2799.92,Canada
+2024-01-10,4K Gaming Monitor 27,Tech,299.99,18,5399.82,Canada
+2024-01-10,Mechanical Keyboard RGB,Tech,89.99,47,4229.53,Canada
+2024-01-10,Standing Desk Motorized,Office,349.99,10,3499.9,Canada
+2024-01-11,4K Gaming Monitor 27,Tech,299.99,28,8399.72,Canada
+2024-01-11,Mechanical Keyboard RGB,Tech,89.99,19,1709.81,Canada
+2024-01-11,Standing Desk Motorized,Office,349.99,9,3149.91,Canada
+2024-01-12,4K Gaming Monitor 27,Tech,299.99,11,3299.89,Canada
+2024-01-12,Mechanical Keyboard RGB,Tech,89.99,20,1799.8,Canada
+2024-01-12,Standing Desk Motorized,Office,349.99,6,2099.94,Canada
+2024-01-13,4K Gaming Monitor 27,Tech,299.99,22,6599.78,Canada
+2024-01-13,Mechanical Keyboard RGB,Tech,89.99,49,4409.51,Canada
+2024-01-13,Standing Desk Motorized,Office,349.99,9,3149.91,Canada
+2024-01-14,4K Gaming Monitor 27,Tech,299.99,15,4499.85,Canada
+2024-01-14,Mechanical Keyboard RGB,Tech,89.99,30,2699.7,Canada
+2024-01-14,Standing Desk Motorized,Office,349.99,4,1399.96,Canada
+2024-01-15,4K Gaming Monitor 27,Tech,299.99,17,5099.83,Canada
+2024-01-15,Mechanical Keyboard RGB,Tech,89.99,44,3959.56,Canada
+2024-01-15,Standing Desk Motorized,Office,349.99,5,1749.95,Canada
+2024-01-16,4K Gaming Monitor 27,Tech,299.99,24,7199.76,Canada
+2024-01-16,Mechanical Keyboard RGB,Tech,89.99,33,2969.67,Canada
+2024-01-16,Standing Desk Motorized,Office,349.99,9,3149.91,Canada
+2024-01-17,4K Gaming Monitor 27,Tech,299.99,12,3599.88,Canada
+2024-01-17,Mechanical Keyboard RGB,Tech,89.99,40,3599.6,Canada
+2024-01-17,Standing Desk Motorized,Office,349.99,7,2449.93,Canada
+2024-01-18,4K Gaming Monitor 27,Tech,299.99,16,4799.84,Canada
+2024-01-18,Mechanical Keyboard RGB,Tech,89.99,26,2339.74,Canada
+2024-01-18,Standing Desk Motorized,Office,349.99,7,2449.93,Canada
+2024-01-19,4K Gaming Monitor 27,Tech,299.99,8,2399.92,Canada
+2024-01-19,Mechanical Keyboard RGB,Tech,89.99,15,1349.85,Canada
+2024-01-19,Standing Desk Motorized,Office,349.99,4,1399.96,Canada
+2024-01-20,4K Gaming Monitor 27,Tech,299.99,29,8699.71,Canada
+2024-01-20,Mechanical Keyboard RGB,Tech,89.99,39,3509.61,Canada
+2024-01-20,Standing Desk Motorized,Office,349.99,10,3499.9,Canada
+2024-01-21,4K Gaming Monitor 27,Tech,299.99,20,5999.8,Canada
+2024-01-21,Mechanical Keyboard RGB,Tech,89.99,15,1349.85,Canada
+2024-01-21,Standing Desk Motorized,Office,349.99,9,3149.91,Canada
+2024-01-22,4K Gaming Monitor 27,Tech,299.99,12,3599.88,Canada
+2024-01-22,Mechanical Keyboard RGB,Tech,89.99,36,3239.64,Canada
+2024-01-22,Standing Desk Motorized,Office,349.99,9,3149.91,Canada
+2024-01-23,4K Gaming Monitor 27,Tech,299.99,10,2999.9,Canada
+2024-01-23,Mechanical Keyboard RGB,Tech,89.99,26,2339.74,Canada
+2024-01-23,Standing Desk Motorized,Office,349.99,5,1749.95,Canada
+2024-01-24,4K Gaming Monitor 27,Tech,299.99,12,3599.88,Canada
+2024-01-24,Mechanical Keyboard RGB,Tech,89.99,36,3239.64,Canada
+2024-01-24,Standing Desk Motorized,Office,349.99,11,3849.89,Canada
+2024-01-25,4K Gaming Monitor 27,Tech,299.99,21,6299.79,Canada
+2024-01-25,Mechanical Keyboard RGB,Tech,89.99,42,3779.58,Canada
+2024-01-25,Standing Desk Motorized,Office,349.99,7,2449.93,Canada
+2024-01-26,4K Gaming Monitor 27,Tech,299.99,22,6599.78,Canada
+2024-01-26,Mechanical Keyboard RGB,Tech,89.99,44,3959.56,Canada
+2024-01-26,Standing Desk Motorized,Office,349.99,6,2099.94,Canada
+2024-01-27,4K Gaming Monitor 27,Tech,299.99,12,3599.88,Canada
+2024-01-27,Mechanical Keyboard RGB,Tech,89.99,26,2339.74,Canada
+2024-01-27,Standing Desk Motorized,Office,349.99,7,2449.93,Canada
+2024-01-28,4K Gaming Monitor 27,Tech,299.99,14,4199.86,Canada
+2024-01-28,Mechanical Keyboard RGB,Tech,89.99,47,4229.53,Canada
+2024-01-28,Standing Desk Motorized,Office,349.99,7,2449.93,Canada
+2024-01-29,4K Gaming Monitor 27,Tech,299.99,17,5099.83,Canada
+2024-01-29,Mechanical Keyboard RGB,Tech,89.99,19,1709.81,Canada
+2024-01-29,Standing Desk Motorized,Office,349.99,6,2099.94,Canada
+2024-01-30,4K Gaming Monitor 27,Tech,299.99,9,2699.91,Canada
+2024-01-30,Mechanical Keyboard RGB,Tech,89.99,45,4049.55,Canada
+2024-01-30,Standing Desk Motorized,Office,349.99,5,1749.95,Canada
+2024-01-31,4K Gaming Monitor 27,Tech,299.99,8,2399.92,Canada
+2024-01-31,Mechanical Keyboard RGB,Tech,89.99,19,1709.81,Canada
+2024-01-31,Standing Desk Motorized,Office,349.99,6,2099.94,Canada
+2024-02-01,4K Gaming Monitor 27,Tech,299.99,23,6899.77,Canada
+2024-02-01,Mechanical Keyboard RGB,Tech,89.99,38,3419.62,Canada
+2024-02-01,Standing Desk Motorized,Office,349.99,9,3149.91,Canada
+2024-02-02,4K Gaming Monitor 27,Tech,299.99,9,2699.91,Canada
+2024-02-02,Mechanical Keyboard RGB,Tech,89.99,42,3779.58,Canada
+2024-02-02,Standing Desk Motorized,Office,349.99,6,2099.94,Canada
+2024-02-03,4K Gaming Monitor 27,Tech,299.99,19,5699.81,Canada
+2024-02-03,Mechanical Keyboard RGB,Tech,89.99,49,4409.51,Canada
+2024-02-03,Standing Desk Motorized,Office,349.99,3,1049.97,Canada
+2024-02-04,4K Gaming Monitor 27,Tech,299.99,8,2399.92,Canada
+2024-02-04,Mechanical Keyboard RGB,Tech,89.99,26,2339.74,Canada
+2024-02-04,Standing Desk Motorized,Office,349.99,5,1749.95,Canada
+2024-02-05,4K Gaming Monitor 27,Tech,299.99,8,2399.92,Canada
+2024-02-05,Mechanical Keyboard RGB,Tech,89.99,47,4229.53,Canada
+2024-02-05,Standing Desk Motorized,Office,349.99,10,3499.9,Canada
+2024-02-06,4K Gaming Monitor 27,Tech,299.99,17,5099.83,Canada
+2024-02-06,Mechanical Keyboard RGB,Tech,89.99,43,3869.57,Canada
+2024-02-06,Standing Desk Motorized,Office,349.99,4,1399.96,Canada
+2024-02-07,4K Gaming Monitor 27,Tech,299.99,26,7799.74,Canada
+2024-02-07,Mechanical Keyboard RGB,Tech,89.99,49,4409.51,Canada
+2024-02-07,Standing Desk Motorized,Office,349.99,9,3149.91,Canada
+2024-02-08,4K Gaming Monitor 27,Tech,299.99,24,7199.76,Canada
+2024-02-08,Mechanical Keyboard RGB,Tech,89.99,40,3599.6,Canada
+2024-02-08,Standing Desk Motorized,Office,349.99,10,3499.9,Canada
+2024-02-09,4K Gaming Monitor 27,Tech,299.99,17,5099.83,Canada
+2024-02-09,Mechanical Keyboard RGB,Tech,89.99,40,3599.6,Canada
+2024-02-09,Standing Desk Motorized,Office,349.99,4,1399.96,Canada
+2024-02-10,4K Gaming Monitor 27,Tech,299.99,26,7799.74,Canada
+2024-02-10,Mechanical Keyboard RGB,Tech,89.99,21,1889.79,Canada
+2024-02-10,Standing Desk Motorized,Office,349.99,6,2099.94,Canada
+2024-02-11,4K Gaming Monitor 27,Tech,299.99,28,8399.72,Canada
+2024-02-11,Mechanical Keyboard RGB,Tech,89.99,25,2249.75,Canada
+2024-02-11,Standing Desk Motorized,Office,349.99,10,3499.9,Canada
+2024-02-12,4K Gaming Monitor 27,Tech,299.99,11,3299.89,Canada
+2024-02-12,Mechanical Keyboard RGB,Tech,89.99,39,3509.61,Canada
+2024-02-12,Standing Desk Motorized,Office,349.99,7,2449.93,Canada
+2024-02-13,4K Gaming Monitor 27,Tech,299.99,11,3299.89,Canada
+2024-02-13,Mechanical Keyboard RGB,Tech,89.99,24,2159.76,Canada
+2024-02-13,Standing Desk Motorized,Office,349.99,7,2449.93,Canada
+2024-02-14,4K Gaming Monitor 27,Tech,299.99,16,4799.84,Canada
+2024-02-14,Mechanical Keyboard RGB,Tech,89.99,38,3419.62,Canada
+2024-02-14,Standing Desk Motorized,Office,349.99,5,1749.95,Canada
+2024-02-15,4K Gaming Monitor 27,Tech,299.99,24,7199.76,Canada
+2024-02-15,Mechanical Keyboard RGB,Tech,89.99,49,4409.51,Canada
+2024-02-15,Standing Desk Motorized,Office,349.99,6,2099.94,Canada
+2024-02-16,4K Gaming Monitor 27,Tech,299.99,25,7499.75,Canada
+2024-02-16,Mechanical Keyboard RGB,Tech,89.99,46,4139.54,Canada
+2024-02-16,Standing Desk Motorized,Office,349.99,10,3499.9,Canada
+2024-02-17,4K Gaming Monitor 27,Tech,299.99,12,3599.88,Canada
+2024-02-17,Mechanical Keyboard RGB,Tech,89.99,26,2339.74,Canada
+2024-02-17,Standing Desk Motorized,Office,349.99,3,1049.97,Canada
+2024-02-18,4K Gaming Monitor 27,Tech,299.99,20,5999.8,Canada
+2024-02-18,Mechanical Keyboard RGB,Tech,89.99,37,3329.63,Canada
+2024-02-18,Standing Desk Motorized,Office,349.99,11,3849.89,Canada
+2024-02-19,4K Gaming Monitor 27,Tech,299.99,10,2999.9,Canada
+2024-02-19,Mechanical Keyboard RGB,Tech,89.99,44,3959.56,Canada
+2024-02-19,Standing Desk Motorized,Office,349.99,3,1049.97,Canada
+2024-02-20,4K Gaming Monitor 27,Tech,299.99,24,7199.76,Canada
+2024-02-20,Mechanical Keyboard RGB,Tech,89.99,34,3059.66,Canada
+2024-02-20,Standing Desk Motorized,Office,349.99,11,3849.89,Canada
+2024-02-21,4K Gaming Monitor 27,Tech,299.99,29,8699.71,Canada
+2024-02-21,Mechanical Keyboard RGB,Tech,89.99,27,2429.73,Canada
+2024-02-21,Standing Desk Motorized,Office,349.99,5,1749.95,Canada
+2024-02-22,4K Gaming Monitor 27,Tech,299.99,24,7199.76,Canada
+2024-02-22,Mechanical Keyboard RGB,Tech,89.99,26,2339.74,Canada
+2024-02-22,Standing Desk Motorized,Office,349.99,11,3849.89,Canada
+2024-02-23,4K Gaming Monitor 27,Tech,299.99,26,7799.74,Canada
+2024-02-23,Mechanical Keyboard RGB,Tech,89.99,26,2339.74,Canada
+2024-02-23,Standing Desk Motorized,Office,349.99,11,3849.89,Canada
+2024-02-24,4K Gaming Monitor 27,Tech,299.99,14,4199.86,Canada
+2024-02-24,Mechanical Keyboard RGB,Tech,89.99,42,3779.58,Canada
+2024-02-24,Standing Desk Motorized,Office,349.99,6,2099.94,Canada
+2024-02-25,4K Gaming Monitor 27,Tech,299.99,26,7799.74,Canada
+2024-02-25,Mechanical Keyboard RGB,Tech,89.99,30,2699.7,Canada
+2024-02-25,Standing Desk Motorized,Office,349.99,7,2449.93,Canada
+2024-02-26,4K Gaming Monitor 27,Tech,299.99,12,3599.88,Canada
+2024-02-26,Mechanical Keyboard RGB,Tech,89.99,49,4409.51,Canada
+2024-02-26,Standing Desk Motorized,Office,349.99,11,3849.89,Canada
+2024-02-27,4K Gaming Monitor 27,Tech,299.99,27,8099.73,Canada
+2024-02-27,Mechanical Keyboard RGB,Tech,89.99,35,3149.65,Canada
+2024-02-27,Standing Desk Motorized,Office,349.99,6,2099.94,Canada
+2024-02-28,4K Gaming Monitor 27,Tech,299.99,28,8399.72,Canada
+2024-02-28,Mechanical Keyboard RGB,Tech,89.99,37,3329.63,Canada
+2024-02-28,Standing Desk Motorized,Office,349.99,11,3849.89,Canada
+2024-02-29,4K Gaming Monitor 27,Tech,299.99,14,4199.86,Canada
+2024-02-29,Mechanical Keyboard RGB,Tech,89.99,28,2519.72,Canada
+2024-02-29,Standing Desk Motorized,Office,349.99,7,2449.93,Canada
+2024-03-01,4K Gaming Monitor 27,Tech,299.99,10,2999.9,Canada
+2024-03-01,Mechanical Keyboard RGB,Tech,89.99,37,3329.63,Canada
+2024-03-01,Standing Desk Motorized,Office,349.99,4,1399.96,Canada
+2024-03-02,4K Gaming Monitor 27,Tech,299.99,22,6599.78,Canada
+2024-03-02,Mechanical Keyboard RGB,Tech,89.99,26,2339.74,Canada
+2024-03-02,Standing Desk Motorized,Office,349.99,11,3849.89,Canada
+2024-03-03,4K Gaming Monitor 27,Tech,299.99,17,5099.83,Canada
+2024-03-03,Mechanical Keyboard RGB,Tech,89.99,31,2789.69,Canada
+2024-03-03,Standing Desk Motorized,Office,349.99,8,2799.92,Canada
+2024-03-04,4K Gaming Monitor 27,Tech,299.99,14,4199.86,Canada
+2024-03-04,Mechanical Keyboard RGB,Tech,89.99,27,2429.73,Canada
+2024-03-04,Standing Desk Motorized,Office,349.99,10,3499.9,Canada
+2024-03-05,4K Gaming Monitor 27,Tech,299.99,17,5099.83,Canada
+2024-03-05,Mechanical Keyboard RGB,Tech,89.99,23,2069.77,Canada
+2024-03-05,Standing Desk Motorized,Office,349.99,4,1399.96,Canada
+2024-03-06,4K Gaming Monitor 27,Tech,299.99,9,2699.91,Canada
+2024-03-06,Mechanical Keyboard RGB,Tech,89.99,19,1709.81,Canada
+2024-03-06,Standing Desk Motorized,Office,349.99,7,2449.93,Canada
+2024-03-07,4K Gaming Monitor 27,Tech,299.99,13,3899.87,Canada
+2024-03-07,Mechanical Keyboard RGB,Tech,89.99,33,2969.67,Canada
+2024-03-07,Standing Desk Motorized,Office,349.99,10,3499.9,Canada
+2024-03-08,4K Gaming Monitor 27,Tech,299.99,23,6899.77,Canada
+2024-03-08,Mechanical Keyboard RGB,Tech,89.99,15,1349.85,Canada
+2024-03-08,Standing Desk Motorized,Office,349.99,8,2799.92,Canada
+2024-03-09,4K Gaming Monitor 27,Tech,299.99,27,8099.73,Canada
+2024-03-09,Mechanical Keyboard RGB,Tech,89.99,31,2789.69,Canada
+2024-03-09,Standing Desk Motorized,Office,349.99,9,3149.91,Canada
+2024-03-10,4K Gaming Monitor 27,Tech,299.99,20,5999.8,Canada
+2024-03-10,Mechanical Keyboard RGB,Tech,89.99,18,1619.82,Canada
+2024-03-10,Standing Desk Motorized,Office,349.99,6,2099.94,Canada
+2024-03-11,4K Gaming Monitor 27,Tech,299.99,13,3899.87,Canada
+2024-03-11,Mechanical Keyboard RGB,Tech,89.99,45,4049.55,Canada
+2024-03-11,Standing Desk Motorized,Office,349.99,5,1749.95,Canada
+2024-03-12,4K Gaming Monitor 27,Tech,299.99,19,5699.81,Canada
+2024-03-12,Mechanical Keyboard RGB,Tech,89.99,41,3689.59,Canada
+2024-03-12,Standing Desk Motorized,Office,349.99,5,1749.95,Canada
+2024-03-13,4K Gaming Monitor 27,Tech,299.99,14,4199.86,Canada
+2024-03-13,Mechanical Keyboard RGB,Tech,89.99,17,1529.83,Canada
+2024-03-13,Standing Desk Motorized,Office,349.99,4,1399.96,Canada
+2024-03-14,4K Gaming Monitor 27,Tech,299.99,27,8099.73,Canada
+2024-03-14,Mechanical Keyboard RGB,Tech,89.99,42,3779.58,Canada
+2024-03-14,Standing Desk Motorized,Office,349.99,10,3499.9,Canada
+2024-03-15,4K Gaming Monitor 27,Tech,299.99,16,4799.84,Canada
+2024-03-15,Mechanical Keyboard RGB,Tech,89.99,15,1349.85,Canada
+2024-03-15,Standing Desk Motorized,Office,349.99,5,1749.95,Canada
+2024-03-16,4K Gaming Monitor 27,Tech,299.99,20,5999.8,Canada
+2024-03-16,Mechanical Keyboard RGB,Tech,89.99,42,3779.58,Canada
+2024-03-16,Standing Desk Motorized,Office,349.99,11,3849.89,Canada
+2024-03-17,4K Gaming Monitor 27,Tech,299.99,24,7199.76,Canada
+2024-03-17,Mechanical Keyboard RGB,Tech,89.99,39,3509.61,Canada
+2024-03-17,Standing Desk Motorized,Office,349.99,10,3499.9,Canada
+2024-03-18,4K Gaming Monitor 27,Tech,299.99,8,2399.92,Canada
+2024-03-18,Mechanical Keyboard RGB,Tech,89.99,20,1799.8,Canada
+2024-03-18,Standing Desk Motorized,Office,349.99,7,2449.93,Canada
+2024-03-19,4K Gaming Monitor 27,Tech,299.99,23,6899.77,Canada
+2024-03-19,Mechanical Keyboard RGB,Tech,89.99,35,3149.65,Canada
+2024-03-19,Standing Desk Motorized,Office,349.99,7,2449.93,Canada
+2024-03-20,4K Gaming Monitor 27,Tech,299.99,11,3299.89,Canada
+2024-03-20,Mechanical Keyboard RGB,Tech,89.99,49,4409.51,Canada
+2024-03-20,Standing Desk Motorized,Office,349.99,5,1749.95,Canada
+2024-03-21,4K Gaming Monitor 27,Tech,299.99,27,8099.73,Canada
+2024-03-21,Mechanical Keyboard RGB,Tech,89.99,32,2879.68,Canada
+2024-03-21,Standing Desk Motorized,Office,349.99,11,3849.89,Canada
+2024-03-22,4K Gaming Monitor 27,Tech,299.99,24,7199.76,Canada
+2024-03-22,Mechanical Keyboard RGB,Tech,89.99,28,2519.72,Canada
+2024-03-22,Standing Desk Motorized,Office,349.99,3,1049.97,Canada
+2024-03-23,4K Gaming Monitor 27,Tech,299.99,28,8399.72,Canada
+2024-03-23,Mechanical Keyboard RGB,Tech,89.99,17,1529.83,Canada
+2024-03-23,Standing Desk Motorized,Office,349.99,9,3149.91,Canada
+2024-03-24,4K Gaming Monitor 27,Tech,299.99,18,5399.82,Canada
+2024-03-24,Mechanical Keyboard RGB,Tech,89.99,26,2339.74,Canada
+2024-03-24,Standing Desk Motorized,Office,349.99,10,3499.9,Canada
+2024-03-25,4K Gaming Monitor 27,Tech,299.99,13,3899.87,Canada
+2024-03-25,Mechanical Keyboard RGB,Tech,89.99,26,2339.74,Canada
+2024-03-25,Standing Desk Motorized,Office,349.99,10,3499.9,Canada
+2024-03-26,4K Gaming Monitor 27,Tech,299.99,28,8399.72,Canada
+2024-03-26,Mechanical Keyboard RGB,Tech,89.99,22,1979.78,Canada
+2024-03-26,Standing Desk Motorized,Office,349.99,6,2099.94,Canada
+2024-03-27,4K Gaming Monitor 27,Tech,299.99,15,4499.85,Canada
+2024-03-27,Mechanical Keyboard RGB,Tech,89.99,42,3779.58,Canada
+2024-03-27,Standing Desk Motorized,Office,349.99,7,2449.93,Canada
+2024-03-28,4K Gaming Monitor 27,Tech,299.99,16,4799.84,Canada
+2024-03-28,Mechanical Keyboard RGB,Tech,89.99,41,3689.59,Canada
+2024-03-28,Standing Desk Motorized,Office,349.99,8,2799.92,Canada
+2024-03-29,4K Gaming Monitor 27,Tech,299.99,24,7199.76,Canada
+2024-03-29,Mechanical Keyboard RGB,Tech,89.99,23,2069.77,Canada
+2024-03-29,Standing Desk Motorized,Office,349.99,3,1049.97,Canada
+2024-03-30,4K Gaming Monitor 27,Tech,299.99,28,8399.72,Canada
+2024-03-30,Mechanical Keyboard RGB,Tech,89.99,34,3059.66,Canada
+2024-03-30,Standing Desk Motorized,Office,349.99,5,1749.95,Canada
+2024-03-31,4K Gaming Monitor 27,Tech,299.99,13,3899.87,Canada
+2024-03-31,Mechanical Keyboard RGB,Tech,89.99,32,2879.68,Canada
+2024-03-31,Standing Desk Motorized,Office,349.99,5,1749.95,Canada

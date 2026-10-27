@@ -1,0 +1,28 @@
+{
+  "features": [
+    "Day",
+    "Month",
+    "DayOfWeek",
+    "Year"
+  ],
+  "total_records": 305,
+  "train_records": 244,
+  "test_records": 61,
+  "train_start": "2010-12-01",
+  "train_end": "2011-09-29",
+  "test_start": "2011-09-30",
+  "test_end": "2011-12-09",
+  "metrics": {
+    "mae": 10109.01,
+    "rmse": 14648.08,
+    "r2": -0.3756
+  },
+  "inventory_baseline": {
+    "average_daily_demand": 20157.34,
+    "demand_std": 12046.34,
+    "lead_time_days": 7,
+    "service_level": "95%",
+    "safety_stock": 19876.46,
+    "reorder_point": 160977.81
+  }
+}
