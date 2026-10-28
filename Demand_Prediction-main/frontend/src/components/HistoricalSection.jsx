@@ -119,7 +119,7 @@ export default function HistoricalSection({
 
         <div className="h-80 w-full">
           <ResponsiveContainer width="100%" height="100%">
-            <LineChart data={displayHistory} margin={{ top: 10, right: 20, left: 10, bottom: 20 }}>
+            <LineChart data={displayHistory} margin={{ top: 10, right: hasRevenue ? 30 : 20, left: 10, bottom: 20 }}>
               <CartesianGrid strokeDasharray="3 3" stroke="#f1f5f9" />
               <XAxis
                 dataKey="date"
@@ -128,10 +128,20 @@ export default function HistoricalSection({
                 tickFormatter={(val) => (val ? val.slice(5) : '')}
               />
               <YAxis
+                yAxisId="left"
                 stroke="#94a3b8"
                 fontSize={11}
                 tickFormatter={(val) => (val >= 1000 ? `${(val / 1000).toFixed(0)}k` : val)}
               />
+              {hasRevenue && (
+                <YAxis
+                  yAxisId="right"
+                  orientation="right"
+                  stroke="#f59e0b"
+                  fontSize={11}
+                  tickFormatter={(val) => (val >= 1000 ? `$${(val / 1000).toFixed(0)}k` : `$${val}`)}
+                />
+              )}
               <Tooltip
                 formatter={(val, name) => [
                   name === 'Daily Revenue' ? `$${Number(val).toLocaleString()}` : `${Number(val).toLocaleString()} units`,
@@ -142,6 +152,7 @@ export default function HistoricalSection({
               />
               <Legend verticalAlign="top" height={36} />
               <Line
+                yAxisId="left"
                 type="monotone"
                 dataKey="demand"
                 name="Actual Daily Demand"
@@ -152,13 +163,13 @@ export default function HistoricalSection({
               />
               {hasRevenue && (
                 <Line
+                  yAxisId="right"
                   type="monotone"
                   dataKey="revenue"
                   name="Daily Revenue"
                   stroke="#f59e0b"
                   strokeWidth={1.5}
                   dot={false}
-                  yAxisId="right"
                 />
               )}
             </LineChart>
